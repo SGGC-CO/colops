@@ -1,0 +1,18 @@
+[submodule "ansible-role-user"]
+	path = ansible-role-user
+	url = git@github.com:SGGC-CO/ansible-role-user.git
+[submodule "ansible-role-sshd"]
+	path = ansible-role-sshd
+	url = git@github.com:SGGC-CO/ansible-role-sshd.git
+[submodule "ansible-role-lsk"]
+	path = ansible-role-lsk
+	url = git@github.com:SGGC-CO/ansible-role-lsk.git
+[submodule "ansible-role-firewall"]
+	path = ansible-role-firewall
+	url = git@github.com:SGGC-CO/ansible-role-firewall.git
+[submodule "ansible-role-dns"]
+	path = ansible-role-dns
+	url = git@github.com:SGGC-CO/ansible-role-dns.git
+[submodule "ansible-role-addsshkey"]
+	path = ansible-role-addsshkey
+	url = git@github.com:SGGC-CO/ansible-role-addsshkey.git
