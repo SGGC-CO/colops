@@ -1,0 +1,7 @@
+- name: init cluster
+  hosts: localhost
+  gather_facts: no
+  roles:
+    - role: ansible-role-mongoc
+      mongod_is_cluster: 1
+      user: "ali"

@@ -1,3 +1,11 @@
+## Run the example playbook
+
+1. Run the following command to start mongodb cluster locally.
+
+```bash
+make mongoc
+```
+
 ## Connection Type
 
 1. local: The role uses to do some action on the local machine.

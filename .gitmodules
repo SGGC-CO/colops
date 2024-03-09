@@ -16,3 +16,9 @@
 [submodule "ansible-role-addsshkey"]
 	path = ansible-role-addsshkey
 	url = git@github.com:SGGC-CO/ansible-role-addsshkey.git
+[submodule "ansible-role-mongoc"]
+	path = ansible-role-mongoc
+	url = git@github.com:SGGC-CO/ansible-role-mongoc.git
+[submodule "ansible-role-mongo"]
+	path = ansible-role-mongo
+	url = git@github.com:SGGC-CO/ansible-role-mongo.git
